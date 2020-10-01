@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/cacher_fragment_1"
+        android:orderInCategory="100"
+        android:title="Cacher fragment 1"/>
+    
+     <item
+        android:id="@+id/cacher_fragment_2"
+        android:orderInCategory="100"
+        android:title="Cacher fragment 2"/>
+     
+     <item
+        android:id="@+id/montrer_fragment_1"
+        android:orderInCategory="100"
+        android:title="Montrer fragment 1"/>
+     
+     <item
+        android:id="@+id/montrer_fragment_2"
+        android:orderInCategory="100"
+        android:title="Montrer fragment 2"/>
+     
+     <item
+        android:id="@+id/go_activity_2"
+        android:orderInCategory="100"
+        android:title="Aller vers l'activité 2"/>
+
+</menu>

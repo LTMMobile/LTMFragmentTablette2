@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/remplacer_fragment3"
+        android:orderInCategory="100"
+        android:title="Remplacer Fragment 3 par Fragment 2"/>
+    <item
+        android:id="@+id/remplacer_fragment2"
+        android:orderInCategory="101"
+        android:title="Remplacer Fragment 2 par Fragment 3"
+        />
+
+</menu>
