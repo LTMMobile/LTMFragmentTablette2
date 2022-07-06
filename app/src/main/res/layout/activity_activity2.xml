@@ -3,7 +3,7 @@
     android:id="@+id/view_group_id"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#9C27B0"
+    android:background="#DB73ED"
     android:paddingLeft="16dp"
     android:paddingTop="16dp"
     android:paddingRight="16dp"

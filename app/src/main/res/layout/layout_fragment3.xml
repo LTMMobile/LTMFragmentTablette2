@@ -9,8 +9,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/planete"
-        android:contentDescription="TODO" />
+        android:contentDescription="TODO"
+        android:src="@drawable/planete" />
 
     <TextView
         android:id="@+id/textView1"
